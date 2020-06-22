@@ -18,13 +18,13 @@ See the env files below for the required configurations and where to put them
 ### Configure Env
 
 Edit the file `./env/backend.sample` and rename to `./env/backend`
-
+```bash
 mv backend.sample backend
-
+```
 Edit the file `./env/frontend.sample` and rename to `./env/frontend`
-
+```bash
 mv frontend.sample frontend
-
+```
 This is used for file permissions on any mapped directories
 
 ### Build With Docker-Compose

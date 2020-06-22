@@ -19,7 +19,11 @@ See the env files below for the required configurations and where to put them
 
 Edit the file `./env/backend.sample` and rename to `./env/backend`
 
+mv backend.sample backend
+
 Edit the file `./env/frontend.sample` and rename to `./env/frontend`
+
+mv frontend.sample frontend
 
 This is used for file permissions on any mapped directories
 
